@@ -428,11 +428,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1.05rem;
+  font-size: 1.15rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 1.245rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -481,11 +481,22 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-b .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-h .mbr-section-title,
+#msg-box3-h p {
+  color: #000;
+}
 #msg-box8-4 .mbr-section-title,
 #msg-box8-4 p {
   color: #fff;
 }
 #msg-box8-9 .mbr-section-title,
 #msg-box8-9 p {
+  color: #fff;
+}
+#msg-box8-j .mbr-section-title,
+#msg-box8-j p {
   color: #fff;
 }
