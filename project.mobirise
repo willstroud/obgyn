@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OBGYN Associates</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Our Mission</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Physicians</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. David Spangler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. John Shannon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Lee McCain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Mitchell Schuster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Mark Purvis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. John Stafford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Ashley McCloud</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Rachel Acuff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Will Stroud</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-2\" aria-expanded=\"false\">Staff</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Our Mission</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Physicians</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. David Spangler</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. John Shannon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Lee McCain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Mitchell Schuster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Mark Purvis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. John Stafford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Ashley McCloud</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Rachel Acuff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-1\">Dr. Will Stroud</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-2\" aria-expanded=\"false\">Staff</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-i\" aria-expanded=\"true\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -617,7 +617,7 @@
             "facebook": "OBGYNAssociates",
             "twitter": "",
             "google": "",
-            "postToLoad": "5",
+            "postToLoad": "3",
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
             "bgColor": "#fff",
@@ -658,7 +658,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "Our Families",
+          "title": "Our Deliveries",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -865,8 +865,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Madison Location<br>1041 Balch Road, Suite 250<br>Madison, AL 35758<br>(256) 704-2229<br><br>Decatur Location<br>1874 Beltline Road<br>Decatur, AL 35601<br>(256) 355-9711<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/OBGYNAssociates/\" target=\"_blank\">Facebook Page</a></li><li><a href=\"http://acog.org\" target=\"_blank\" class=\"text-white\">ACOG</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Link 3</a></li></ul>"
+          "text1": "<strong>Address</strong><br>Madison Location<br>1041 Balch Road, Suite 250<br>Madison, AL 35758<br>(256) 704-2229<br><br>Decatur Location<br>1874 Beltline Road<br>Decatur, AL 35601<br>(256) 355-9711<br><br>\n<strong>Hours</strong><br>Monday - Thursday: 8:30AM - 4:30PM<br>Friday: 8:30AM - 11:30AM<br>Saturday &amp; Sunday: Closed",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/OBGYNAssociates/\" target=\"_blank\">Facebook Page</a></li><li><a href=\"http://acog.org\" target=\"_blank\" class=\"text-white\">ACOG</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a class=\"text-white\" href=\"#top\">Link 3</a></li></ul>"
         }
       ]
     }
