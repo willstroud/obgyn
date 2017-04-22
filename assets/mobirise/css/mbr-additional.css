@@ -481,8 +481,8 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header1-b .mbr-section-title {
-  text-align: center;
+#slider-k H2 {
+  text-align: left;
 }
 #msg-box3-h .mbr-section-title,
 #msg-box3-h p {
@@ -490,6 +490,10 @@ h6,
 }
 #msg-box8-4 .mbr-section-title,
 #msg-box8-4 p {
+  color: #fff;
+}
+#msg-box8-m .mbr-section-title,
+#msg-box8-m p {
   color: #fff;
 }
 #msg-box8-9 .mbr-section-title,
