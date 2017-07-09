@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 27,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -137,6 +137,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -177,12 +182,7 @@
             "showBullets": true
           },
           "_anchor": "slider-k",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "msg-box8",
@@ -277,19 +277,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-2940b-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-2940b-2000x1330.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18557286-10209386926085207-8005252186361824927-n-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18557286-10209386926085207-8005252186361824927-n-1-2000x2000.jpg",
                 "caption": "Dr. McCain",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-1-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-1-2000x1330.jpg",
-                "caption": "Dr. Purvis &amp; Dr. Acuff",
                 "active": false
               },
               {
@@ -303,13 +293,43 @@
                 "active": false
               },
               {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1-2000x1330.jpg",
+                "caption": "Dr. Purvis &amp; Dr. Acuff",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-2-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-2-2000x1330.jpg",
-                "caption": "Dr. Acuff &amp; Dr. Stroud",
+                "thumb": "@PROJECT_PATH@/assets/images/shannon-2000x1331-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shannon-2000x1331.jpg",
+                "caption": "Dr. Shannon",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-4455b-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4455b-2000x1330.jpg",
+                "caption": "Dr. Stafford",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/document-name9007bce-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/document-name9007bce-2000x1330.jpg",
+                "caption": "Dr. McCloud",
                 "active": false
               },
               {
@@ -320,7 +340,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-3-2000x1330-800x532.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-3-2000x1330.jpg",
                 "caption": "Dr. Acuff",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -330,13 +350,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-16-2000x1330-800x532.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-16-2000x1330.jpg",
                 "caption": "Dr. Stroud",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 0,
             "showText": true,
             "filter": false,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -344,6 +364,65 @@
           "_anchor": "gallery1-1",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-q",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/f_K4xekET10",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Coming Soon:<br> Coolsculpting<div><span style=\"font-weight: normal;\">The #1 Non-Invasive Fat Reduction Procedure</span></div>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_styles": {
+            "DIV": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "48px",
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_styles": {
@@ -376,7 +455,7 @@
             "showButton": false
           },
           "title": "Gynecology Services",
-          "text": "<p>Something here</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {

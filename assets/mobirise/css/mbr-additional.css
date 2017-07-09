@@ -492,6 +492,13 @@ h6,
 #msg-box8-4 p {
   color: #fff;
 }
+#msg-box4-q DIV {
+  font-size: 24px;
+}
+#msg-box4-q H3 {
+  font-size: 48px;
+  color: #efefef;
+}
 #msg-box8-m .mbr-section-title,
 #msg-box8-m p {
   color: #fff;
