@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -466,7 +466,7 @@
           "_anchor": "features3-l",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -560,18 +560,19 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "features3",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-n",
+          "_name": "features6",
+          "_anchor": "features6-s",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -588,59 +589,69 @@
             "showButtons": true
           },
           "media1": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
             }
           },
-          "title1": "Annual Exams",
+          "title1": "Sexual Dysfunction",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "There are a number of causes of pelvic pain ranging from ovarian cysts, uterine fibroids, endometriosis, as well as scar tissue from past surgeries. Treatment can range from hormonal management to surgery depending on the severity of your symtpoms.  Read more below.",
-          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
             }
           },
-          "title2": "Another problem",
+          "title2": "Annual Exams",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "There are a number of causes of pelvic pain ranging from ovarian cysts, uterine fibroids, endometriosis, as well as scar tissue from past surgeries. Treatment can range from hormonal management to surgery depending on the severity of your symtpoms.  Read more below.",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
             }
           },
-          "title3": "Another problem",
+          "title3": "Disorders of the Breast",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "There are a number of causes of pelvic pain ranging from ovarian cysts, uterine fibroids, endometriosis, as well as scar tissue from past surgeries. Treatment can range from hormonal management to surgery depending on the severity of your symtpoms.  Read more below.",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
             }
           },
-          "title4": "Another problem",
+          "title4": "Disorders of the Genital Area",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "There are a number of causes of pelvic pain ranging from ovarian cysts, uterine fibroids, endometriosis, as well as scar tissue from past surgeries. Treatment can range from hormonal management to surgery depending on the severity of your symtpoms.  Read more below.",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
             }
           },
           "title5": "Trendy Website Blocks",
@@ -648,11 +659,13 @@
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
             }
           },
           "title6": "Host Anywhere",
