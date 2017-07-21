@@ -158,7 +158,7 @@
                 "showTitle": true,
                 "title": "Welcome to<br>OBGYN Associates",
                 "showText": true,
-                "text": "Something something something something something",
+                "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -172,7 +172,7 @@
                 "showTitle": true,
                 "title": "Welcome to <br>OBGYN Associates",
                 "showText": true,
-                "text": "Something something something something something something.",
+                "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -216,7 +216,7 @@
             "showButton": false
           },
           "title": "Our Mission",
-          "text": "<p>I need to come up with a few sentences &nbsp;for a good mission statement here. &nbsp;Something about how we want to be a part of their story, how we want to always make them feel welcome and how we'll strive to always treat them like family.</p>",
+          "text": "<p>We pride ourselves in becoming a part of your story and your family. &nbsp;Our physicians and staff love what we do and we want to always strive to make that apparent in your care.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -283,26 +283,6 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x2643-800x1057.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-2000x2643.jpg",
-                "caption": "Dr. Schuster",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-1-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-1-2000x1330.jpg",
-                "caption": "Dr. Purvis &amp; Dr. Acuff",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -311,6 +291,26 @@
                 "image": "@PROJECT_PATH@/assets/images/shannon-2000x1331.jpg",
                 "caption": "Dr. Shannon",
                 "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1350-800x540.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1350.jpg",
+                "caption": "Dr. Purvis",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x2643-800x1057.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x2643.jpg",
+                "caption": "Dr. Schuster",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -340,7 +340,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-3-2000x1330-800x532.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-3-2000x1330.jpg",
                 "caption": "Dr. Acuff",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -371,6 +371,15 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "DIV": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "font-size": "48px",
+              "color": "#efefef"
+            }
+          },
           "_anchor": "msg-box4-q",
           "_params": {
             "imageSize": 50,
@@ -411,18 +420,9 @@
               "size": 250
             }
           },
-          "title": "Coming Soon:<br> Coolsculpting<div><span style=\"font-weight: normal;\">The #1 Non-Invasive Fat Reduction Procedure</span></div>",
+          "title": "Ready for patients:<br> Coolsculpting<div><span style=\"font-weight: normal;\">The #1 Non-Invasive Fat Reduction Procedure</span></div>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_styles": {
-            "DIV": {
-              "font-size": "24px"
-            },
-            "H3": {
-              "font-size": "48px",
-              "color": "#efefef"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
           "_styles": {
@@ -595,7 +595,7 @@
               "active": true
             }
           },
-          "title1": "Another problem",
+          "title1": "Annual Exams",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "There are a number of causes of pelvic pain ranging from ovarian cysts, uterine fibroids, endometriosis, as well as scar tissue from past surgeries. Treatment can range from hormonal management to surgery depending on the severity of your symtpoms.  Read more below.",
           "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
